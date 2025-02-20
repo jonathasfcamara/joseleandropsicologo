@@ -202,7 +202,7 @@ body {
         justify-content: center;
         align-items: center;
         text-align: center;
-        margin: 0;
+        margin: 50px;
     }
 
     .container {
@@ -232,17 +232,25 @@ body {
     #nomeprincipal {
         font-size: 1.5em; /* Ajuste conforme necessário */
         margin-top: 10px;
+        margin: auto;
     }
 
     .especificacoes {
-        margin-top: 20px;
-        font-size: 0.9em; /* Ajuste conforme necessário */
+        margin-top: 50px;
+        font-size: 0.7em; /* Ajuste conforme necessário */
+        margin: auto;
     }
 
     #iconerotatorio {
-        margin-top: 20px;
+        margin-top: 50px;
         width: 40px; /* Ajuste conforme necessário */
         height: 40px; /* Ajuste conforme necessário */
+    }
+
+    #texto2{
+        margin-top: 50px;
+        font-size: 1.2em; 
+        margin: auto;
     }
 }
 
